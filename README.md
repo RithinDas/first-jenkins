@@ -1,0 +1,2 @@
+# kotti
+hostname
